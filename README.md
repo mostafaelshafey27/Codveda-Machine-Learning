@@ -1,6 +1,6 @@
 # Codveda Machine Learning Internship
 
-This file contains the machine learning tasks completed during my internship at **Codveda Technologies**.
+This repository contains the machine learning tasks completed during my internship at **Codveda Technologies**.
 
 The main objective of these projects is to practice the complete machine learning workflow, including data preprocessing, model training, prediction, evaluation, and interpretation.
 
